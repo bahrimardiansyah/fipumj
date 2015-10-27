@@ -1,5 +1,9 @@
 Test Commit
 
+<<<<<<< HEAD
 Bahri Keren
 
 Rachmat Gemuk
+=======
+Test Updated From Github
+>>>>>>> 3f8f5a2c7c9478e4a7cfe3b45f7b79251cdbb616
